@@ -51,7 +51,7 @@ I created this README.md file to document my setup process. Below are screenshot
 
 - **Python Installation Verification:**
 
-  ![Python Installation Verification](screenshots/python_installation.png)
+  ![Python Installation Verification](screenshots/Python_Installation_Verification.PNG)
 
 - **MySQL Installation Confirmation:**
 
