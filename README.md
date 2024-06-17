@@ -55,11 +55,11 @@ I created this README.md file to document my setup process. Below are screenshot
 
 - **MySQL Installation Confirmation:**
 
-  ![MySQL Installation Confirmation](screenshots/mysql_installation.png)
+  ![MySQL Installation Confirmation](Screenshots/mysql_installation.png)
 
 ## Next Steps
 
-- Customizd CodeSpace further with additional extensions as needed.
+- Customized CodeSpace further with additional extensions as needed.
 - Began coding and using Git for version control with my projects.
 - Explored more advanced features of MySQL for database development.
 
